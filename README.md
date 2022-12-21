@@ -4,13 +4,15 @@
 def present_matt():
 	""" Presents Matt """
 	
-	# Personal Information
+	# 💬 Personal Information
 	first_name = 'Mathieu'
 	last_name = 'Rivier'
 
-	# School
+	# 🌱 School
 	school = 'Epita'
-	studies = 'Computer Science Student - Engineer degree'
+	degree = 'Computer Science - Engineer degree'
+	major = 'Artificial Intelligence (AI, NLP, Deep)'
+	minor = 'Market Finance'
 ```
 
 <!--
